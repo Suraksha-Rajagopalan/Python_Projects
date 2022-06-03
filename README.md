@@ -16,4 +16,4 @@ Flow of Algorithm:
 <p>ii. After receiving our Email, our Service Provider (the Sender Server) will send it through SMTP to the Recipient Service Provider (the Recipient Server).</p>
 <p>iii. The Recipient’s Server can be used by the Recipient’s Client to read the Email via IMAP or POP.</p>
 
-
+<h4>  📧SMTP Library</h4>
