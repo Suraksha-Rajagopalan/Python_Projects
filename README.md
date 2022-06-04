@@ -17,3 +17,9 @@ Flow of Algorithm:
 <p>iii. The Recipient’s Server can be used by the Recipient’s Client to read the Email via IMAP or POP.</p>
 
 <h4>  📧SMTP Library</h4>
+The smtplib module defines an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon. For details of SMTP and ESMTP operation, consult RFC 821 (Simple Mail Transfer Protocol) and RFC 1869 (SMTP Service Extensions).
+
+
+
+<h4>  📖Bibilograpy</h4>
+<p><a href="https://docs.python.org/3/library/smtplib.html" target="_main">https://docs.python.org/3/library/smtplib.html</a></p>
