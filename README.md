@@ -1,5 +1,5 @@
 # Python_Projects
-Here are some of the python projects which I have completed successfully. 
+Here are some of the python projects which I have completed successfully. These are fun python based projects.
 
 <h2>1. Automate Email Sending</h2>
 <h4> 🤔Service Provider </h4>
